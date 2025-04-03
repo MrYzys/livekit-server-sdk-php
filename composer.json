@@ -1,5 +1,5 @@
 {
-    "name": "agence104/livekit-server-sdk",
+    "name": "betterus/livekit-server-sdk",
     "description": "Server-side SDK for LiveKit.",
     "type": "library",
     "license": "MIT",
